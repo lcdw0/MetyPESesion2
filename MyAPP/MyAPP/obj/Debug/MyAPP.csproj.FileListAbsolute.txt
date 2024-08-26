@@ -1,0 +1,10 @@
+D:\source\CsUAM\MyAPP\MyAPP\bin\Debug\MyAPP.exe.config
+D:\source\CsUAM\MyAPP\MyAPP\bin\Debug\MyAPP.exe
+D:\source\CsUAM\MyAPP\MyAPP\bin\Debug\MyAPP.pdb
+D:\source\CsUAM\MyAPP\MyAPP\obj\Debug\MyAPP.csproj.AssemblyReference.cache
+D:\source\CsUAM\MyAPP\MyAPP\obj\Debug\MyAPP.FrmPrincipal.resources
+D:\source\CsUAM\MyAPP\MyAPP\obj\Debug\MyAPP.Properties.Resources.resources
+D:\source\CsUAM\MyAPP\MyAPP\obj\Debug\MyAPP.csproj.GenerateResource.cache
+D:\source\CsUAM\MyAPP\MyAPP\obj\Debug\MyAPP.csproj.CoreCompileInputs.cache
+D:\source\CsUAM\MyAPP\MyAPP\obj\Debug\MyAPP.exe
+D:\source\CsUAM\MyAPP\MyAPP\obj\Debug\MyAPP.pdb
