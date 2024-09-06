@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mario\\OneDrive\\Documentos\\SegundoSemestre\\MetodologiaSesion2\\Sesion2.09\\UsoIF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D1B003-4060-4BE8-B1BA-11A928B9A7A6}|UsoIF\\UsoIF.csproj|c:\\users\\mario\\onedrive\\documentos\\segundosemestre\\metodologiasesion2\\sesion2.09\\usoif\\usoif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D1B003-4060-4BE8-B1BA-11A928B9A7A6}|UsoIF\\UsoIF.csproj|solutionrelative:usoif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D1B003-4060-4BE8-B1BA-11A928B9A7A6}|UsoIF\\UsoIF.csproj|c:\\users\\mario\\onedrive\\documentos\\segundosemestre\\metodologiasesion2\\sesion2.09\\usoif\\usoif\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D1B003-4060-4BE8-B1BA-11A928B9A7A6}|UsoIF\\UsoIF.csproj|solutionrelative:usoif\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Evaluate.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\OneDrive\\Documentos\\SegundoSemestre\\MetodologiaSesion2\\Sesion2.09\\UsoIF\\UsoIF\\Models\\Evaluate.cs",
+              "RelativeDocumentMoniker": "UsoIF\\Models\\Evaluate.cs",
+              "ToolTip": "C:\\Users\\mario\\OneDrive\\Documentos\\SegundoSemestre\\MetodologiaSesion2\\Sesion2.09\\UsoIF\\UsoIF\\Models\\Evaluate.cs",
+              "RelativeToolTip": "UsoIF\\Models\\Evaluate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:23:57.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\OneDrive\\Documentos\\SegundoSemestre\\MetodologiaSesion2\\Sesion2.09\\UsoIF\\UsoIF\\Program.cs",
+              "RelativeDocumentMoniker": "UsoIF\\Program.cs",
+              "ToolTip": "C:\\Users\\mario\\OneDrive\\Documentos\\SegundoSemestre\\MetodologiaSesion2\\Sesion2.09\\UsoIF\\UsoIF\\Program.cs",
+              "RelativeToolTip": "UsoIF\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:20:21.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

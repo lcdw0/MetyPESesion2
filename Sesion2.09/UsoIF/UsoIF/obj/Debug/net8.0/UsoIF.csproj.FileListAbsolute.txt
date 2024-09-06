@@ -1,0 +1,15 @@
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\obj\Debug\net8.0\UsoIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\obj\Debug\net8.0\UsoIF.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\obj\Debug\net8.0\UsoIF.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\obj\Debug\net8.0\UsoIF.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\obj\Debug\net8.0\UsoIF.sourcelink.json
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\bin\Debug\net8.0\UsoIF.exe
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\bin\Debug\net8.0\UsoIF.deps.json
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\bin\Debug\net8.0\UsoIF.runtimeconfig.json
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\bin\Debug\net8.0\UsoIF.dll
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\bin\Debug\net8.0\UsoIF.pdb
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\obj\Debug\net8.0\UsoIF.dll
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\obj\Debug\net8.0\refint\UsoIF.dll
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\obj\Debug\net8.0\UsoIF.pdb
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\obj\Debug\net8.0\UsoIF.genruntimeconfig.cache
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\MetodologiaSesion2\Sesion2.09\UsoIF\UsoIF\obj\Debug\net8.0\ref\UsoIF.dll
